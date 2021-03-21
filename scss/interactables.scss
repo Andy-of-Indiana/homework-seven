@@ -15,6 +15,23 @@
     align-items: center;
   }
 }
+.buttonSquareContact {
+  height: 40px;
+  width: 175px;
+  background: $blue;
+
+  a {
+    font-size: $mainFont19;
+    font-family: $mainType;
+    color: $white;
+    text-decoration: none;
+    display: flex;
+    padding-top: 10px;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
 .circleButton {
   height: 40px;
   width: 120px;

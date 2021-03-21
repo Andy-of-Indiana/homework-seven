@@ -15,6 +15,13 @@
   width: 77%;
   margin: 0 auto;
 }
+.titleLine {
+  height: 2px;
+  width: 70%;
+  background-color: $black;
+  bottom: 0;
+  position: absolute;
+}
 
 .footer {
   min-height: 100px;

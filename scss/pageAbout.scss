@@ -12,14 +12,6 @@
       height: 80px;
       width: 225px;
       position: relative;
-
-      .titleLine {
-        height: 2px;
-        width: 70%;
-        background-color: $black;
-        bottom: 0;
-        position: absolute;
-      }
     }
     .aboutTitle h1 {
       font-size: $titleFont60;
@@ -48,14 +40,6 @@
       height: 60px;
       width: 350px;
       position: relative;
-
-      .titleLine {
-        height: 2px;
-        width: 70%;
-        background-color: $black;
-        bottom: 0;
-        position: absolute;
-      }
     }
     .clientQuotesTitle h2 {
       font-size: $titleFont45;
